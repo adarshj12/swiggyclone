@@ -1,0 +1,241 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#div1{
+    background-color: #fff;
+    width: 50%;
+    height: 75vh;
+    float: left;
+}
+#div2{
+   background-image: url(food/food2.jpeg);
+   width: 50%;
+   height: 75vh;
+   float: right;
+   background-size: cover;
+}
+body{
+    margin: 0px;
+    font-family: Arial,Arial, Helvetica  sans-serif;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 70px;
+    width: 150px;
+    height: 50px;
+}
+.login{
+    
+    margin-top: 90px;
+    color: black;
+    font-size: 20px;
+    margin-left: 350px;
+}
+.login:hover{
+    cursor: pointer;
+    color: #fc8019;
+}
+.signin{
+    
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+}
+.signin:hover{
+    cursor: pointer;
+    color: #fc8019;
+}
+#scrollingtxt{
+    font-size: 50px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+#subtxt{
+    font-size: 24px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-weight: 300px;
+}
+#emaibox{
+    width: 400px;
+    height: 50px;
+    margin-left: 53px;
+    border: 1px solid #fc8019;
+
+}
+#findfood{
+    background-color: #fc8019;
+    width: 132px;
+    height: 54px;
+    color: #fff;
+    border: 1px solid #fc8019;
+    margin-right: 5px;
+
+}
+#findfood:hover{
+    cursor: pointer;
+
+}
+#plrcity{
+    color: gray;
+    margin-left: 51px;
+}
+#maintxt1{
+    margin-left: 52px;
+}
+.text1{
+    color: gray;
+}
+#div3{
+    background-color: rgb(91, 12, 12);
+    width: 100%;
+    height: 50vh;
+}
+#img1{
+    margin-top: 50px;
+    width: 105px;
+    height: 199px;
+   margin-left: 300px;
+}
+
+
+.textt1{
+    color: #fff;
+    margin-left: 237px;
+}
+.img1{
+    width: 35%;
+    height: 50vh;
+    background-color: rgb(39, 29, 29);
+    float: left;
+}
+.img2{
+    width: 35%;
+    height: 50vh;
+    background-color: rgb(39, 29, 29);
+    float: left;
+}
+.img3{
+    width: 30%;
+    height: 50vh;
+    background-color: rgb(39, 29, 29);
+    float: left;
+}
+#imgg1{
+    margin-top: 2px;
+    margin-left: 200px;
+    width: 105px;
+    height: 199px;
+}
+#imgg2{
+    margin-top: 2px;
+    margin-left: 93px;
+    width: 105px;
+    height: 199px;
+}
+#imgg3{
+    margin-top: 1px;
+    margin-left: 54px;
+    width: 105px;
+    height: 199px;
+}
+#img1txt{
+    color: white;
+    font-size: 24px;
+    margin-left: 196px;
+}
+
+#img2txt{
+    color: white;
+    font-size: 24px;
+    margin-left: 93px;
+}
+#img3txt{
+    color: white;
+    font-size: 24px;
+    margin-left: 36px;
+}
+#imggg1{
+    color: #fff;
+    margin-left: 196px;
+}
+#imggg2{
+    color: #fff;
+    margin-left: 93px;
+}
+#imggg3{
+    color: #fff;
+    margin-left: 36px;
+}
+.div4{
+    width: 100%;
+    height: 50vh;
+    background-color: cyan;
+}
+#btmdiv1{
+    width: 50%;
+    height: 50vh;
+    background-color: #fff;
+    float: left;
+}
+#btmdiv2{
+    width: 50%;
+    height: 50vh;
+    background-color: khaki;
+    float: left;
+}
+#btmdiv1txt1{
+    color: black;
+    margin-left: 100px;
+    margin-top: 120px;
+}
+#btmdiv1subtxt1{
+    font-size: 25px;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-left: 101px;
+    color: gray;
+}
+#gstore{
+    width: 145px;
+    height: 50px;
+    margin-left: 97px;
+    border-radius: 10px;
+    cursor: pointer;
+
+
+}
+#istore{
+    width: 145px;
+    height: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#mobile_image1{
+    width: 300px;
+    height: 489px;
+    margin-left: 30px;
+}
+#mobile_image2{
+    width: 300px;
+    height: 489px;
+    margin-top: 80px;
+
+}
+#smartphone1{
+    width: 50%;
+    height: 50vh;
+    background-color: #fff;
+    float: left;
+}
+#smartphone2{
+    width: 50%;
+    height: 50vh;
+    background-color: #fff;
+    float: left;
+}

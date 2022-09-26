@@ -1,0 +1,68 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SWIGGY</title>
+    <link rel="stylesheet" href="style.css" />
+   <link rel = "icon" href = 
+"swiggy_icon.PNG"
+        type = "image/x-icon">
+</head>
+<body>
+    <div class="main">
+        <div id="div1">
+            <img class="logo" src="swiggy_logo.png" alt="">
+            <j2 class="login">Login</j2>
+            <button class="signin">Sign Up</button>
+            <h1 id="scrollingtxt">Late Night at Office?</h1>
+            <p id="subtxt">Order food from favourite restaurants near you.</p>
+            <input id="emaibox" type="email" placeholder="Email address">
+            <button id="findfood">FIND FOOD</button>
+            <p id="plrcity">POPULAR CITIES IN INDIA</p><br>
+            <p id="maintxt1">Ahmedabad <label class="text1">Benguluru</label> Chennai <label class="text1">Delhi</label> Gurgaon <label class="text1">Hyderabad</label> Kolkata <label class="text1">Mumbai</label><br> Pune & <label class="text1">&more.</label></p>            
+        </div>
+           <div id="div2">
+
+           </div>
+    </div>
+    <div id="div3">
+        <div class="img1">
+            <img id="imgg1" src="no_minimum_order.PNG" alt="">
+            <h2 id="img1txt">No Minimum Order</h2>
+            <p id="imggg1">Order in for yourself or for the group,<br> with no restrictions on order value</p>
+        </div>
+        <div class="img2">
+            <img id="imgg2" src="live_order_tracking.PNG" alt="">
+            <h2 id="img2txt">Live Order Tracking</h2>
+            <p id="imggg2">Know where your order is at all times,<br> from the restaurant to your doorstep</p>
+        </div>
+        <div class="img3">
+            <img id="imgg3" src="lightning_fast_delivery.PNG" alt="">
+            <h2 id="img3txt">Lightning-Fast Delivery</h2>
+            <p id="imggg3">Experience Swiggy's superfast delivery <br> for food delivered fresh & on time</p>
+        </div>
+    </div>
+    <div class="div4">
+        <div id="btmdiv1">
+            <h1 id="btmdiv1txt1">Restaurants in <br> your pocket</h1>
+            <p id="btmdiv1subtxt1" >Order from your favorite restaurants & track <br> on the go, with the all-new Swiggy app.</p>
+            <img id="gstore" src="gstore.JPG" alt="">
+            <img id="istore" src="istore.JPG" alt="">
+        </div>
+        <div id="btmdiv2">
+            <div id="smartphone1">
+                <img id="mobile_image1" src="mobile_image1.JPG" alt="">
+            </div>
+            <div id="smartphone2">
+                <img id="mobile_image2" src="mobile_image2.JPG" alt=""> 
+            </div>
+        </div>
+    </div>
+        
+    
+</body>
+</html>
